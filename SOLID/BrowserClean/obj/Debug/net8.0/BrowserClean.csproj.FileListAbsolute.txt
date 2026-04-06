@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\bin\Debug\net8.0\BrowserClean.deps.json
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\bin\Debug\net8.0\BrowserClean.dll
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\bin\Debug\net8.0\BrowserClean.pdb
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\obj\Debug\net8.0\BrowserClean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\obj\Debug\net8.0\BrowserClean.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\obj\Debug\net8.0\BrowserClean.AssemblyInfo.cs
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\obj\Debug\net8.0\BrowserClean.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\obj\Debug\net8.0\BrowserClean.sourcelink.json
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\obj\Debug\net8.0\BrowserClean.dll
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\obj\Debug\net8.0\refint\BrowserClean.dll
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\obj\Debug\net8.0\BrowserClean.pdb
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\obj\Debug\net8.0\ref\BrowserClean.dll
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\bin\Debug\net8.0\BrowserClean.exe
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\bin\Debug\net8.0\BrowserClean.runtimeconfig.json
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserClean\obj\Debug\net8.0\BrowserClean.genruntimeconfig.cache
