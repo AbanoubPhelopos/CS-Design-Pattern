@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\obj\Debug\net8.0\BrowserViolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\obj\Debug\net8.0\BrowserViolation.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\obj\Debug\net8.0\BrowserViolation.AssemblyInfo.cs
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\obj\Debug\net8.0\BrowserViolation.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\obj\Debug\net8.0\BrowserViolation.sourcelink.json
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\bin\Debug\net8.0\BrowserViolation.exe
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\bin\Debug\net8.0\BrowserViolation.deps.json
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\bin\Debug\net8.0\BrowserViolation.runtimeconfig.json
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\bin\Debug\net8.0\BrowserViolation.dll
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\bin\Debug\net8.0\BrowserViolation.pdb
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\obj\Debug\net8.0\BrowserViolation.dll
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\obj\Debug\net8.0\refint\BrowserViolation.dll
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\obj\Debug\net8.0\BrowserViolation.pdb
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\obj\Debug\net8.0\BrowserViolation.genruntimeconfig.cache
+C:\Users\Hp\Desktop\projects\CS-Design-Pattern\SOLID\BrowserViolation\obj\Debug\net8.0\ref\BrowserViolation.dll
